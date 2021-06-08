@@ -10,17 +10,17 @@
   - 运行C程序
   - 在Altera FPGA开发板上运行
   - GPIO外设
-  - UART外设和下载
-  - JLINK 调试功能
-  - ...
-
+  - UART外设和串口下载程序
+  - JLINK 调试功能和烧写（SWD)
+  - 支持SES-RISCV直接编写程序
+  - 运行RTOS-rtt
+  - 运行GUI-lvgl
+  
 - [开发记录](https://makerinchina.cn/category/ic_design/riscv_cpu/)
 
 - 主要参考资料
 
-《自己动手写CPU》
+    - 《Computer_Organization_RiscV_Edition》、中文版《计算机组成与设计  硬件软件接口 》
 
-《手把手教你设计CPU：RISC-V处理器篇》
-
-[RISCV 官方文档](https://riscv.org/technical/specifications/)
+    - [RISCV 官方文档](https://riscv.org/technical/specifications/)
 
